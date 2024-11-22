@@ -1,3 +1,5 @@
+CREATE DATABASE poster_manager;
+
 USE poster_manager;
 
 CREATE TABLE IF NOT EXISTS `users` (
